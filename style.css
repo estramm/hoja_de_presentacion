@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div h1 {
+    color: gold;
+    background-color:darkgrey
+}
+
+div img {
+    height: 100px;
+    width: 100px;
+}
+
+.tittle {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subtittle{
+    color:indigo;
+}
